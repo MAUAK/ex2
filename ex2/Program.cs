@@ -9,6 +9,8 @@ namespace ex2
         {
             //Declarando variaveis da classe Pessoa
             Pessoa pessoa1, pessoa2;
+            
+            //comentario teste
 
             //Instanciando variaveis
             pessoa1 = new Pessoa();
