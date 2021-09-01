@@ -7,10 +7,14 @@ namespace ex2
     {
         static void Main(string[] args)
         {
+            /*----------------------------------
+
+            Kauam Silva Batista - RA: 210501
+
+            ----------------------------------*/
+
             //Declarando variaveis da classe Pessoa
-            Pessoa pessoa1, pessoa2;
-            
-            //comentario teste
+            Pessoa pessoa1, pessoa2;           
 
             //Instanciando variaveis
             pessoa1 = new Pessoa();
